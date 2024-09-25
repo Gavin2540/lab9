@@ -1,0 +1,29 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.image-gallery div {
+  width: 200px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.login-form {
+  margin-bottom: 20px;
+}
+
+.login-form div {
+  margin-bottom: 10px;
+}
